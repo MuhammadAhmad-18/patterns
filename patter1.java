@@ -9,5 +9,7 @@ public class patter1 {
             System.out.println();
 
         }
+
+        System.out.println("Ended");
     }
 }
