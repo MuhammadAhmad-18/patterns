@@ -10,8 +10,5 @@ public class patter1 {
 
         }
 
-        System.out.println("This is feature 1 branch.");
-        System.out.println("feature 2 added");
-        System.out.println("hello");
     }
 }
