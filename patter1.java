@@ -10,6 +10,6 @@ public class patter1 {
 
         }
 
-        System.out.println("Ended");
+        System.out.println("This is feature 1 branch.");
     }
 }
