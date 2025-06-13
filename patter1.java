@@ -9,5 +9,6 @@ public class patter1 {
             System.out.println();
 
         }
+        System.out.println("Change1 added!");
     }
 }
